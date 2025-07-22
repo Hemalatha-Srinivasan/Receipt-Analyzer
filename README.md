@@ -105,6 +105,6 @@ receipt-analyzer/
 
 ## Created By
 Hemalatha S
-Python Intern Assignment – Round 1
-July 2025
+Python Intern Assignment 
+22-July-2025
 GitHub: github.com/Hemalatha-Srinivasan

@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pydantic
+opencv-python
+pillow
+pandas
+matplotlib

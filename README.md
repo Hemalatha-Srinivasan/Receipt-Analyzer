@@ -4,7 +4,7 @@ Analyze bills and receipts with OCR and generate visual spend insights.
 
 ## Features
 
--  Upload `.jpg` / `.png` receipts
+-  Upload '.jpg' / '.png' receipts
 -  OCR text extraction (supports **English**, **Tamil**, **Hindi**)
 -  Auto-extract **Vendor**, **Date**, and **Amount**
 -  Save data into **SQLite** local database
